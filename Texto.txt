@@ -1,0 +1,4 @@
+Hola mundo!!
+Archivo de texto
+Usando Buffers
+C:/Archivos/Texto.txt
