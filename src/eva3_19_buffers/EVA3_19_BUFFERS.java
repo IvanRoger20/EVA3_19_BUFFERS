@@ -46,6 +46,7 @@ public class EVA3_19_BUFFERS {
                 System.out.println(linea);
                 linea = leerTxt.readLine();
             }
+            leerTexto.close();
         } catch (IOException ex) {
             Logger.getLogger(EVA3_19_BUFFERS.class.getName()).log(Level.SEVERE, null, ex);
         }
